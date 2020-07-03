@@ -4,7 +4,6 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Flask inside Docker(First container in pipeline)!!"
 DB_PAssword = "s488323@swe@3$%#"
 
 DB = "s488323@swe@3$%#"  
