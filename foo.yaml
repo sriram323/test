@@ -8,7 +8,7 @@ spec:
           echo -en '\n';
         done;
       env:
-        - name: USER
+        - name: Sriram
           value: "test_user"
         - name: PASSWORD
           value: "c0NhbGVpbzEyMw==83bnd2!adfiu3"
