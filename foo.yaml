@@ -9,7 +9,7 @@ spec:
         done;
       env:
         - name: USER
-          value: "test_user"
-        - name: PASSWORD
+          value: "gggg"
+        - name: jjjllllllllllllllll
           value: "c0NhbGVpbzEyMw==83bnd2!adfiu3"
   restartPolicy: Never
