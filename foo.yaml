@@ -10,6 +10,6 @@ spec:
       env:
         - name: USER
           value: "test_user"
-        - name: PASSWORD
+        - name: PASSWORDllllll
           value: "c0NhbGVpbzEyMw==83bnd2!adfiu3"
   restartPolicy: Never
