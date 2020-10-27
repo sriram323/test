@@ -1,3 +1,6 @@
+## 0.3.0-snapshot (October 27, 2020)
+  - updated requirements.txt
+
 ## 0.2.0 (October 27, 2020)
   - bumpversion
   - updated the password
