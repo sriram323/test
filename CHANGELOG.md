@@ -1,3 +1,6 @@
+## 0.4.1-snapshot (October 27, 2020)
+  - updated the app.py
+
 ## 0.3.0-snapshot (October 27, 2020)
   - updated requirements.txt
 
