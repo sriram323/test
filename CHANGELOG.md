@@ -1,3 +1,6 @@
+## 0.5.0 (November 20, 2020)
+
+
 ## 0.4.1-snapshot (October 27, 2020)
   - updated the app.py
 
